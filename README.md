@@ -24,6 +24,7 @@
 
 
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fledboy&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fledboy&layout=compact&theme=cobalt&show)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fledboy&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fledboy&layout=compact&theme=cobalt&show)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![discord](https://discord.c99.nl/widget/theme-5/705658715310784522.png)
